@@ -1,4 +1,4 @@
-import ra ndom
+import random
 random.seed(42)
 
 # 수요 생성 메서드
